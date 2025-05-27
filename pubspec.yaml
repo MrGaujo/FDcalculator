@@ -1,0 +1,20 @@
+name: fd_calculator
+description: A new Flutter project.
+
+# The following defines the version and build number
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.1.0  # <- This must be indented properly
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
